@@ -22,5 +22,5 @@ if encontrar in nome:
     print(f'{encontrar} esta em {nome}')
 else:
     print (f'{encontrar} nao esta em {nome}')
-
+    
     
